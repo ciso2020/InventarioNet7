@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SistemaInventarioNet7.props" />
-</Project>
